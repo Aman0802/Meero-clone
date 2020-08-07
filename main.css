@@ -37,6 +37,17 @@
 .image-vision {
   width: 40%;
 }
+
+.logo {
+  fill: white;
+}
+
+@media only screen and (max-width: 768px) {
+  .image-vision {
+    width: 70%;
+  }
+}
+
 /* 
 .line {
   height: 1px;
