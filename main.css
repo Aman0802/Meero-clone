@@ -37,3 +37,9 @@
 .image-vision {
   width: 40%;
 }
+
+.line {
+  height: 1px;
+  width: 100%;
+  color: gray;
+}
