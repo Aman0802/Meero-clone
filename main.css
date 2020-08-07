@@ -1,0 +1,27 @@
+.cover {
+  height: 85vh;
+  width: 100vw;
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
+  background-image: url("https://eiko.ai/eiko/meero/sW6u-WmjF3g7BjZrg6DZ4Weotx4/eyJpbnB1dCI6eyJzb3VyY2VzIjpbImh0dHBzOlwvXC9hc3NldHMubWVlcm8uY29tXC9tZWVyb3Nob3djYXNlXC9pbWFnZXNcL2Zyb250XC9WNVwvaG9tZXBhZ2VcL2NvdmVyLXYzLmpwZyJdfSwib3BlcmF0aW9ucyI6W3sidHlwZSI6InJlc2l6ZSIsIndpZHRoIjozMjB9XSwib3V0cHV0Ijp7fX0=");
+  /* position: relative; */
+}
+
+/* .header-image {
+  width: 100%;
+  height: 100%;
+} */
+
+.card {
+  max-width: 23rem;
+}
+/* 
+.header-image {
+  position: relative;
+} */
+
+.photoshoot-card {
+  min-width: 26rem;
+  width: 30%;
+}
