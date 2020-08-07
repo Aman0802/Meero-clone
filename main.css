@@ -25,3 +25,15 @@
   min-width: 26rem;
   width: 30%;
 }
+
+.photoshoot-card:nth-child(3n + 1) {
+  margin-top: -6rem;
+}
+
+.photoshoot-card:nth-child(3n) {
+  margin-top: -6rem;
+}
+
+.image-vision {
+  width: 40%;
+}
