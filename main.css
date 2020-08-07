@@ -1,6 +1,6 @@
 .cover {
-  height: 85vh;
   width: 100vw;
+  height: auto;
   background-size: cover;
   background-repeat: none;
   background-position: center;
@@ -56,3 +56,6 @@
   width: 100%;
   color: gray;
 } */
+.box {
+  width: 270px;
+}
